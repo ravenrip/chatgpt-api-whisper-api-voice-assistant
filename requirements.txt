@@ -1,2 +1,4 @@
-openai
+openai==0.27.0
 gradio
+pypiwin32
+pyttsx3
