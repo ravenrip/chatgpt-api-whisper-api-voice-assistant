@@ -1,13 +1,9 @@
-# chatgpt-api-whisper-api-voice-assistant
-chatgpt api and whisper api tutorial - voice conversation with therapist
+# Based on another project: chatgpt-api-whisper-api-voice-assistant
+How to make a company chatbot that has topic specific services and can provide training is configured.
 
-Video Demo / Tutorial:
-
+Started from this great video:
 https://www.youtube.com/watch?v=Si0vFx_dJ5Y
 
-## Setup
 
-Install `ffmpeg` with:
-```
-brew install ffmpeg
-```
+Please note:
+You must use OpenAI library 0.27.0 (see requirements.txt)
